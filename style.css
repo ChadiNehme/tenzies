@@ -1,0 +1,15 @@
+body{
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+div#root{
+  height: 100%;
+  width: 100%;
+  background-color: darkblue;
+  max-width: 400px;
+  max-height: 400px;
+}
